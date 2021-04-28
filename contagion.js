@@ -10,7 +10,7 @@ color off = color(0);
 
 function setup() {
   createCanvas(500, 500);
-  frameRate()(1000);
+  frameRate(60);
   x = width/2;
   y = height/2;
   background(0);
